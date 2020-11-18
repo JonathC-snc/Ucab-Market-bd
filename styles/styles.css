@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
 
 body{
@@ -11,5 +12,69 @@ body{
 
 .fondo{
     background: #0c2a43;
+}
+
+#Busqueda{
+    background: #ffffff;
+    border-radius: 20px;
+    width: 35%;
+    border:  #ffffff;
+    color: #0c2a43;
+    display: flex;
+    align-items: center;
+    
+}
+
+#box-nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+}
+
+#box-tienda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sesion{
+    color: white;
+}
+
+#boton-reg{
+    width: 15%;
+    border-radius: 20px;
+    color: #13558b;
+}
+
+#menu-nav{
+    background: #0c2a43;
+    color: white;
+}
+
+#menu-nav-sec{
+    color: white;
+    
+}
+
+#imagen{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+#publicidad-um{
+    width: 100%;
+    height: 300px;
+    background: #0c2a43;
+    border-radius: 20px;
+}
+
+#info{
+    width: 98%;
+    height: 50px;
+    background: #0c2a43;
+    border-radius: 20px;
 }
 
