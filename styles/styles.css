@@ -78,3 +78,21 @@ body{
     border-radius: 20px;
 }
 
+
+
+
+/*------------------ FOOTER -------------------*/
+
+.main-footer{
+    width: 100%;
+    height: auto;
+    background: #0c2a43;
+    margin-top: 2%;
+
+}
+
+
+#sec-empresa a,p{
+    color: white;
+    font-size: 70%;
+}
