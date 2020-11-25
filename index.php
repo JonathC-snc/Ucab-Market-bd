@@ -97,7 +97,7 @@
     </div>
 
     <div id="span" class="container">
-      <p class="col-sm-10 mt-4 font-weight-bold">De todo en tecnologia a unos ofertones</p>
+      <p class="col-sm-10 mt-4 font-weight-bold"><i class="fas fa-caret-right fa-2x"></i> De todo en tecnologia a unos ofertones</p>
     </div>
 
     <div class="container">
@@ -152,7 +152,7 @@
     </div>
 
     <div id="span" class="container">
-      <p class="col-sm-10 mt-4 font-weight-bold">Variedad en Licores</p>
+      <p class="col-sm-10 mt-4 font-weight-bold"><i class="fas fa-caret-right fa-2x"></i> Variedad en Licores</p>
     </div>
 
     <div class="container">
