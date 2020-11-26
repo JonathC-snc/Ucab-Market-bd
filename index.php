@@ -23,11 +23,11 @@
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
+          <span class="sr-only" style="color: blue">Previous</span>
         </a>
         <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
+          <span class="sr-only" style="color: blue">Next</span>
         </a>
     </div>
 
@@ -64,32 +64,32 @@
                 <div id="imagen-p"></div>
                 <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
                 <label for="" class="mt-1 font-weight-bold">200$</label>
-                <button type="button" class="btn">
-                  <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+                <button type="button" class="btn" style="border-radius: 20px">
+                  <i class="fas fa-shopping-cart fa-1x"></i> Agregar
                 </button>
               </div>
               <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
                 <div id="imagen-p"></div>
                 <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
                 <label for="" class="mt-1 font-weight-bold">200$</label>
-                <button type="button" class="btn">
-                  <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+                <button type="button" class="btn" style="border-radius: 20px">
+                  <i class="fas fa-shopping-cart fa-1x"></i> Agregar
                 </button>
               </div>
               <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
                 <div id="imagen-p"></div>
                 <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
                 <label for="" class="mt-1 font-weight-bold">200$</label>
-                <button type="button" class="btn">
-                  <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+                <button type="button" class="btn" style="border-radius: 20px">
+                  <i class="fas fa-shopping-cart fa-1x"></i> Agregar
                 </button>
               </div>
               <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
                 <div id="imagen-p"></div>
                 <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
                 <label for="" class="mt-1 font-weight-bold">200$</label>
-                <button type="button" class="btn">
-                  <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+                <button type="button" class="btn" style="border-radius: 20px">
+                  <i class="fas fa-shopping-cart fa-1x"></i> Agregar
                 </button>
               </div>
           </div>
@@ -106,32 +106,32 @@
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
               </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
       </div>
@@ -161,32 +161,32 @@
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
               </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
         <div id="producto" class="col-sm-3 justify-content-center flex-column align-items-center">
           <div id="imagen-p"></div>
           <label for="" class="mt-1 font-weight-bold">Lorem Ipsum</label>
           <label for="" class="mt-1 font-weight-bold">200$</label>
-          <button type="button" class="btn">
-            <label for=""><i class="fas fa-shopping-cart fa-1x"></i> Agregar</label>
+          <button type="button" class="btn" style="border-radius: 20px">
+            <i class="fas fa-shopping-cart fa-1x"></i> Agregar
           </button>
         </div>
       </div>
