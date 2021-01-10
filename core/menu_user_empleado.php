@@ -11,7 +11,7 @@
 
 <section id="menu" class="container">
     <div id="opciones-menu">
-        <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-truck-moving fa-4x mb-3"></i> Proveedores</button>
+        <a id="btn-menu" class="btn mr-3" href="../core/proveedor_table.php"><i class="fas fa-truck-moving fa-4x mb-3"></i> Proveedores</a>
         <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-list fa-4x mb-3"></i> Nomina</button>
         <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-hourglass-end fa-4x mb-3"></i> Horarios</button>
         <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-store fa-4x mb-3"></i> Almacen</button>
