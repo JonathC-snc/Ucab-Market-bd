@@ -65,6 +65,48 @@ body{
     align-items: center;
 }
 
+#btn-perfil{
+
+    outline: none;
+    color: #ffffff;
+    background: #0c2a43;
+    
+}
+
+#box-mini-perfil{
+    width: 35%;
+    height: 150px;
+    background: #f1f0f0;
+    border-radius: 20px;
+    position: absolute;
+    left: 64%;
+    top: 1%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#box-mini-1p,
+#box-mini-2p{
+    width: 48%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#box-mini-3p{
+    width: 4%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
 /* --------------- Carousell -------------*/
 
 #imagen{
@@ -559,6 +601,7 @@ body{
     border: none;
     justify-content: center;
     align-items: center;
+    outline: none;
 }
 
 #button-dir{
@@ -569,6 +612,7 @@ body{
     border: none;
     justify-content: center;
     align-items: center;
+    outline: none;
 }
 #button-car{
     width: 100%;
@@ -578,6 +622,7 @@ body{
     border: none;
     justify-content: center;
     align-items: center;
+    outline: none;
 }
 
 #detalles-perfil-ordenes{

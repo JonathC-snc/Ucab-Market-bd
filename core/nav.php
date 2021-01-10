@@ -24,7 +24,9 @@
         <button type="button" id="sesion" class="btn btn-link font-weight-bold">
             <a style="color: white; decoration: none" href="../core/login.php">Iniciar Sesion</a>
         </button>
-        <button type="button" id="boton-reg" class="btn btn-light font-weight-bold">Registrate</button>
+        <!--<button type="button" id="boton-reg" class="btn btn-light font-weight-bold">Registrate</button>-->
+        <button type="button" id="btn-perfil" onclick="opcionesPerfil()" class="btn font-weight-bold"><i class="far fa-user fa-1x"></i> Jonathan <i class="fas fa-chevron-down fa-1x"></i></button>
+        
     </nav>
 
     <nav id="menu-nav" class="navbar navbar-expand-lg navbar-light">
@@ -64,4 +66,21 @@
             </ul>
         </div>
     </nav>
+
+    <div id="box-mini-perfil">
+            <div id="box-mini-1p">
+                <i class="far fa-hand-peace fa-2x mb-3" style="color: #0c2a43"></i>
+                <label for="">Hola, Jonathan!</label>
+                <a href="../core/perfil.php" style="text-decoration: none">ver mi cuenta</a>
+            </div>
+            <div id="box-mini-2p">
+                <a href="../core/perfil.php" style="color: black" class="mb-1">Mis Ordenes</a>
+                <a href="../core/perfil.php" style="color: black" class="mb-1" onclick="btnDireccion()">Mis direcciones</a>
+                <a href="../core/perfil.php" style="color: black" class="mb-1">Carnet Umarket</a>
+                <a href="../core/login.php" style="color: black"><i class="fas fa-sign-out-alt fa-1x" style="color: #0c2a43"></i> Cerrar Sesión</a>
+            </div>
+            <button type="button" id="box-mini-3p" onclick="btnCerrar()" class="btn">
+                <i class="fas fa-times fa-1x mt-2 mr-2"></i>
+            </button>
+    </div>
 </header>

@@ -25,30 +25,30 @@
     </div>
     <div id="opciones-perfil" class="col-sm-12">
         <div id="op-box" class="col-sm-2">
-            <button id="button-ord" type="button">
+            <button id="button-ord" type="button" onclick="btnOrdenes()">
                 <h6 class="font-weight-bold"><i class="fas fa-book fa-1x"></i> Mis Ordenes</h6>
             </button>
         </div>
         <div id="op-box" class="col-sm-2">
-            <button id="button-dir" type="button">
+            <button id="button-dir" type="button" onclick="btnDireccion()">
                 <h6 class="font-weight-bold"><i class="fas fa-map-marker-alt fa-1x"></i> Mis Direcciones</h6>
             </button>
         </div>
         <div id="op-box" class="col-sm-2">
-            <button id="button-car" type="button">
+            <button id="button-car" type="button" onclick="btnCarnet()">
                 <h6 class="font-weight-bold"><i class="fas fa-id-card fa-1x"></i> Carnet Umarket</h6>
             </button>
         </div>
     </div>
-    <!--<div id="detalles-perfil-ordenes" class="col-sm-12">
+    <div id="detalles-perfil-ordenes" class="col-sm-12">
         <div id="box-detalles" class="col-sm-8 flex-column">
             <i class="fas fa-exclamation-circle fa-10x mb-3"></i>
             <h3 class="font-weight-bold">Oops!!</h3>
             <h3 class="font-weight-bold">No tienes ordenes en proceso</h3>
             <h5 class="font-weight-bold">Compra algo!!!</h5>
         </div>
-    </div>-->
-    <!--<div id="detalles-perfil-direcciones" class="col-sm-12">
+    </div>
+    <div id="detalles-perfil-direcciones" class="col-sm-12">
         <div id="box-direcciones" class="col-sm-8 flex-column">
             <h5 class="font-weight-bold"><i class="fas fa-map-marker-alt fa-1x"></i> Direcciones Agregadas</h5>
             <div id="datos-direccion" class="">
@@ -68,7 +68,7 @@
         <div id="agre-dir" class="col-sm-3">
             <button id="btn-dir" type="button" class="font-weight-bold"><i class="fas fa-plus fa-1x"></i> Agregar otra direccion</button>
         </div>
-    </div>-->
+    </div>
     <div id="detalles-perfil-carnet" class="col-sm-12">
         <div id="carnet-um" class="col-sm-6">
             <div id="logo-carnet" class="col-sm-4">

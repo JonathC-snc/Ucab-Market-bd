@@ -11,6 +11,8 @@
         rel="stylesheet">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../node_modules/animate.css/animate.min.css">
+    <link rel="stylesheet" href="../node_modules/animate.css/animate.css">
     <script src="https://kit.fontawesome.com/4cfc9174d1.js" crossorigin="anonymous"></script>
 </head>
 

@@ -69,6 +69,7 @@
 <script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>
 <script src="../node_modules/jquery/dist/jquery.js"></script>
 <script src="../node_modules/popper.js/dist/popper.js"></script>
+<script src="../scripts/CustomUm.js"></script>
 <script src="../scripts/scroll.js"></script>
 <script src="https://kit.fontawesome.com/4cfc9174d1.js" crossorigin="anonymous"></script>
 </body>
