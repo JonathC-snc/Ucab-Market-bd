@@ -2,9 +2,9 @@
 
 <section id="login">
     <div id="window-login" class="col-sm-12">
-        <div id="logo-login" class="col-sm-6">
+        <a id="logo-login" class="col-sm-6" href="../index.php">
             <img src="../img/logo/logo umarket.svg" width="500" height="500" alt="">
-        </div>
+        </a>
         <div id="opciones-login" class="col-sm-6">
             <h6 class="text-center font-weight-bold mb-3" style="color: white">Selecciona como deseas iniciar sesion</h6>
             <div id="sec-1-login">
@@ -24,7 +24,7 @@
                 </button>
             </div>
             <h6 class="text-center mt-3 font-weight-bold" style="color: white">No tienes cuenta ? <span><a href="">Registrate</a></span></h6>
-            <h6 class="text-center mt-3 font-weight-bold" style="color: white">Trabajador Market ? <span><a href="">Ingresa</a></span></h6>
+            <h6 class="text-center mt-3 font-weight-bold" style="color: white">Trabajador Market ? <span><a href="../core/menu_user_empleado.php">Ingresa</a></span></h6>
         </div>
     </div>
     

@@ -33,7 +33,7 @@
         <div class="colapse navbar-collapse" id="navbarSupportedContent">
             <ul class="nav justify-content-center" style="width: 100%;">
                 <li class="nav-item mr-2">
-                    <a id="menu-nav-sec" class="nav-link" href="../core/perfil.php">Supermercado</a>
+                    <a id="menu-nav-sec" class="nav-link" href="../core/proveedor_table.php">Supermercado</a>
                 </li>
                 <li class="nav-item mr-2">
                     <a id="menu-nav-sec" class="nav-link" href="#">Bebes y Niños</a>
