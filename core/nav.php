@@ -21,7 +21,9 @@
             </div>
             <label for="exampleInputEmail1" style="color: white;">Las Mercedes</label>
         </div>
-        <button type="button" id="sesion" class="btn btn-link font-weight-bold">Iniciar Sesion</button>
+        <button type="button" id="sesion" class="btn btn-link font-weight-bold">
+            <a style="color: white; decoration: none" href="../core/login.php">Iniciar Sesion</a>
+        </button>
         <button type="button" id="boton-reg" class="btn btn-light font-weight-bold">Registrate</button>
     </nav>
 
@@ -29,7 +31,7 @@
         <div class="colapse navbar-collapse" id="navbarSupportedContent">
             <ul class="nav justify-content-center" style="width: 100%;">
                 <li class="nav-item mr-2">
-                    <a id="menu-nav-sec" class="nav-link" href="#">Supermercado</a>
+                    <a id="menu-nav-sec" class="nav-link" href="../core/perfil.php">Supermercado</a>
                 </li>
                 <li class="nav-item mr-2">
                     <a id="menu-nav-sec" class="nav-link" href="#">Bebes y Niños</a>
