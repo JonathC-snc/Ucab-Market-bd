@@ -10,56 +10,94 @@
 </section>
 
 <section id="table-proveedor" class="container col-sm-12">
-    <h4 class="font-weight-bold mb-2 mt-5">Tabla de Tiendas</h4>
-    <h6 class="mb-5">Aqui pora verificar quienes son nuestras tiendas a nivel nacional</h6>
+    <div id="opciones-proveedor">
+        <div>
+            <h4 class="font-weight-bold mb-2 mt-5">Tabla de Tiendas</h4>
+            <h6 class="mb-5">Aqui pora verificar quienes son nuestras tiendas a nivel nacional</h6>
+        </div>
+        <div id="box-btn">
+            <button id="btn-pro" type="button" class="btn btn-light">Agregar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Modificar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Eliminar</button>
+        </div>
+    </div>
     <table id="t1-prove" class="table">
         <tr>
             <th>Nombre</th>
             <th>Estado</th>
             <th>Ciudad</th>
             <th>Nro Empleados</th>
+            <th>Opciones</th>
         </tr>
         <tr>
             <td>chinos</td>
             <td>coreanos</td>
             <td>venezolanos</td>
             <td>fweggeg</td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td>pc</td>
             <td>ps2</td>
             <td>xbox</td>
             <td>fwefwef</td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
     </table>
 </section>

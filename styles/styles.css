@@ -817,12 +817,35 @@ body{
     align-items: center;
 }
 
+#opciones-proveedor{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#box-btn{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#btn-pro{
+    width: 25%;
+    height: 40%;
+    background: #0c2a43;
+    border-radius: 20px;
+    color: white; 
+}
+
 /*-------Menu Empleado ------*/
 
 #menu,
 #menu-2{
     width: 100%;
-    height: 800px;
+    height: 500px;
     background: #ffffff;
     display: flex;
     justify-content: center;
@@ -832,7 +855,7 @@ body{
 #opciones-menu,
 #opciones-menu-2{
     width: 100%;
-    height: 400px;
+    height: 250px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -840,7 +863,7 @@ body{
 
 #btn-menu{
     width: 25%;
-    height: 50%;
+    height: 60%;
     background: #0c2a43;
     color: white;
     display: flex;

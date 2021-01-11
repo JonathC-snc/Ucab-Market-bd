@@ -10,8 +10,17 @@
 </section>
 
 <section id="table-proveedor" class="container col-sm-12">
-    <h4 class="font-weight-bold mb-2 mt-5">Tabla de Clientes</h4>
-    <h6 class="mb-5">Aqui podrá consultar las lista de nuestro clientes registrados</h6>
+    <div id="opciones-proveedor">
+        <div>
+            <h4 class="font-weight-bold mb-2 mt-5">Tabla de Clientes</h4>
+            <h6 class="mb-5">Aqui podrá consultar las lista de nuestro clientes registrados</h6>
+        </div>
+        <div id="box-btn">
+            <button id="btn-pro" type="button" class="btn btn-light">Agregar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Modificar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Eliminar</button>
+        </div>
+    </div>
     <table id="t1-prove" class="table">
         <tr>
             <th>Nombre</th>
@@ -21,6 +30,7 @@
             <th>Nro de afiliacion</th>
             <th>Telefono</th>
             <th>Edad</th>
+            <th>Opciones</th>
         </tr>
         <tr>
             <td>chinos</td>
@@ -30,6 +40,10 @@
             <td>ewgwegwe</td>
             <td>vegreg</td>
             <td>fwefwef</td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td>pc</td>
@@ -39,6 +53,10 @@
             <td>egergerg</td>
             <td>efeger</td>
             <td>eefwefwe</td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -48,6 +66,10 @@
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -57,6 +79,10 @@
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -66,6 +92,10 @@
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -75,6 +105,10 @@
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -84,6 +118,10 @@
             <td></td>
             <td></td>
             <td></td>
+            <td>
+                <a href=""><i class="far fa-edit fa-2x"></i></a>
+                <a href=""><i class="far fa-trash-alt fa-2x"></i></a>
+            </td>
         </tr>
     </table>
 </section>

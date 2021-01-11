@@ -10,8 +10,17 @@
 </section>
 
 <section id="table-proveedor" class="container col-sm-12">
-    <h4 class="font-weight-bold mb-2 mt-5">Tabla de Proveedores</h4>
-    <h6 class="mb-5">Aqui pora verificar quienes son nuestros mayores proveedores</h6>
+    <div id="opciones-proveedor">
+        <div>
+            <h4 class="font-weight-bold mb-2 mt-5">Tabla de Proveedores</h4>
+            <h6 class="mb-5">Aqui pora verificar quienes son nuestros mayores proveedores</h6>
+        </div>
+        <div id="box-btn">
+            <button id="btn-pro" type="button" class="btn btn-light">Agregar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Modificar</button>
+            <button id="btn-pro" type="button" class="btn btn-light">Eliminar</button>
+        </div>
+    </div>
     <table id="t1-prove" class="table">
         <tr>
             <th>Razon Social</th>
