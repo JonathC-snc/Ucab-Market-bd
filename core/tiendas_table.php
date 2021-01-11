@@ -9,21 +9,60 @@
     </div>
 </section>
 
-<section id="menu" class="container flex-column">
-    <div id="opciones-menu">
-        <a id="btn-menu" class="btn mr-3" href="../core/proveedor_table.php"><i class="fas fa-truck-moving fa-4x mb-3"></i> Proveedores</a>
-        <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-list fa-4x mb-3"></i> Nomina</button>
-        <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-hourglass-end fa-4x mb-3"></i> Horarios</button>
-        <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-store fa-4x mb-3"></i> Almacen</button>
-    </div> 
-    <div id="opciones-menu-2">
-        <a id="btn-menu" class="btn mr-3" href="../core/tiendas_table.php"><i class="fas fa-store fa-4x mb-3"></i> Tiendas</a>
-        <a id="btn-menu" type="button" class="btn mr-3" href="../core/clientes_table.php"><i class="fas fa-user fa-4x mb-3"></i> Clientes</a>
-        <!--<i class="ri-t-shirt-air-line"></i><button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-hourglass-end fa-4x mb-3"></i> </button>
-        <button id="btn-menu" type="button" class="btn mr-3"><i class="fas fa-store fa-4x mb-3"></i> Almacen</button>-->
-    </div> 
+<section id="table-proveedor" class="container col-sm-12">
+    <h4 class="font-weight-bold mb-2 mt-5">Tabla de Tiendas</h4>
+    <h6 class="mb-5">Aqui pora verificar quienes son nuestras tiendas a nivel nacional</h6>
+    <table id="t1-prove" class="table">
+        <tr>
+            <th>Nombre</th>
+            <th>Estado</th>
+            <th>Ciudad</th>
+            <th>Nro Empleados</th>
+        </tr>
+        <tr>
+            <td>chinos</td>
+            <td>coreanos</td>
+            <td>venezolanos</td>
+            <td>fweggeg</td>
+        </tr>
+        <tr>
+            <td>pc</td>
+            <td>ps2</td>
+            <td>xbox</td>
+            <td>fwefwef</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </section>
-
 
 <div id="box-mini-perfil">
             <div id="box-mini-1p">

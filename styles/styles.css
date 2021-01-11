@@ -819,16 +819,18 @@ body{
 
 /*-------Menu Empleado ------*/
 
-#menu{
+#menu,
+#menu-2{
     width: 100%;
-    height: 400px;
+    height: 800px;
     background: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#opciones-menu{
+#opciones-menu,
+#opciones-menu-2{
     width: 100%;
     height: 400px;
     display: flex;
