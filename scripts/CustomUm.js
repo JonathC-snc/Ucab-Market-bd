@@ -55,3 +55,16 @@ function btnCerrar(){
     $('#box-mini-perfil').addClass('animate__fadeOut');
     $('#box-mini-perfil').hide();
 }
+
+
+/*------------------------------- Box- de Registro -------------------------*/
+
+$('#box-agregar').hide();
+
+function btnAgregarCl(){
+    $('#box-agregar').show();
+    $('#box-agregar').addClass('animate__animated animate__backInUp');
+    $('#titulo-box-agregar').addClass('animate__animated animate__fadeIn');
+    $('#formulario-2').addClass('animate__animated animate__fadeIn');
+}
+

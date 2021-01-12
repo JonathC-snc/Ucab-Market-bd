@@ -16,9 +16,7 @@
             <h6 class="mb-5">Aqui podrá consultar las lista de nuestro clientes registrados</h6>
         </div>
         <div id="box-btn">
-            <button id="btn-pro" type="button" class="btn btn-light">Agregar</button>
-            <button id="btn-pro" type="button" class="btn btn-light">Modificar</button>
-            <button id="btn-pro" type="button" class="btn btn-light">Eliminar</button>
+            <button id="btn-pro" type="button" class="btn btn-light" onclick="btnAgregarCl()">Agregar</button>
         </div>
     </div>
     <table id="t1-prove" class="table">
@@ -126,7 +124,7 @@
     </table>
 </section>
 
-<div id="box-mini-perfil">
+    <div id="box-mini-perfil">
             <div id="box-mini-1p">
                 <i class="far fa-hand-peace fa-2x mb-3" style="color: #0c2a43"></i>
                 <label for="">Hola, Jonathan!</label>
@@ -142,6 +140,26 @@
             <button type="button" id="box-mini-3p" onclick="btnCerrar()" class="btn">
                 <i class="fas fa-times fa-1x mt-2 mr-2"></i>
             </button>
+    </div>
+
+    <div id="box-agregar" class="col-sm-6">
+        <h5 id="titulo-box-agregar" class="font-weight-bold" style="color:white">Registro</h5>
+        <form id="formulario-2" action="" class="col-sm-5">
+            <div class="form-group">
+                <input type="text" class="form-control" name="nombre" placeholder="Nombre" autofocus>
+                <input type="text" class="form-control" name="apellido" placeholder="Apellido">
+                <input type="text" class="form-control" name="cedula" placeholder="Cedula">
+            </div>
+            <div class="form-group">
+                <input type="email" class="form-control" name="correo" placeholder="Correo">
+                <input type="text" class="form-control" name="afiliacion" placeholder="Afiliacion">
+                <input type="text" class="form-control" name="telefono" placeholder="Telefono">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="edad" placeholder="Edad">
+            </div>
+            <input type="submit" value="Registrar" class="font-weight-bold btn btn-succes btn-clock">
+        </form>
     </div>
 
 <?php require $_SERVER['DOCUMENT_ROOT'] . "./core/footer.php";?>

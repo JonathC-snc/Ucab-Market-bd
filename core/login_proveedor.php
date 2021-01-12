@@ -23,8 +23,8 @@
                 </button>
             </div>
             
-            <h6 class="text-center mt-3 font-weight-bold" style="color: white">No tienes cuenta ? <span><a href="">Registrate</a></span></h6>
-            <h6 class="text-center mt-3 font-weight-bold" style="color: white">Trabajador Market ? <span><a href="">Ingresa</a></span></h6>
+            <h6 class="text-center mt-3 font-weight-bold" style="color: white">No tienes cuenta ? <span><a href="../core/registro_p.php">Registrate</a></span></h6>
+            <h6 class="text-center mt-3 font-weight-bold" style="color: white">Trabajador Market ? <span><a href="../core/menu_user_empleado.php">Ingresa</a></span></h6>
         </div>
     </div>
     

@@ -23,7 +23,7 @@
                 </form>
             </div>
             
-            <h6 class="text-center mt-3 font-weight-bold" style="color: white">No tienes cuenta ? <span><a href="../core/registro_p.php">Registrate</a></span></h6>
+            <h6 class="text-center mt-3 font-weight-bold" style="color: white">No tienes cuenta ? <span><a href="../core/registro_cl.php">Registrate</a></span></h6>
             <h6 class="text-center mt-3 font-weight-bold" style="color: white">Trabajador Market ? <span><a href="../core/confirmacion.php">Ingresa</a></span></h6>
         </div>
     </div>
